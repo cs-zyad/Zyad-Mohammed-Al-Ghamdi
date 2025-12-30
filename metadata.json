@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of زاد الحاج الآمن (SafeHajj)",
+  "description": "تطبيق لمساعدة الحجاج ذوي الحساسية الغذائية في العثور على مطاعم آمنة وتحليل الوجبات في مكة والمشاعر المقدسة.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
